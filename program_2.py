@@ -68,4 +68,5 @@ while True: # Always true condition
         print("Planner closed. Goodbye!")
         break
     else:
-        print("Invalid selection, Please choose again.")
+        print("Invalid selection, Please choose again.") # If letter chosen is other than above mentioned letters
+
